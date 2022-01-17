@@ -2,4 +2,4 @@
 
 # Tinkerwell Community
 
-This repository acts as a community forum for [Tinkerwell](https://tinkerwell.app) questions, feature ideas, and bug reports. To start a thread, please open an [issue](https://github.com/beyondcode/tinkerwell-suggestions/issues).
+This repository acts as a community forum for [Tinkerwell](https://tinkerwell.app) questions, feature ideas, and bug reports. Please open an [issue](https://github.com/beyondcode/tinkerwell-suggestions/issues) to report a bug or create a [discussion](https://github.com/beyondcode/tinkerwell-community/discussions) if you have an idea for a new feature.
