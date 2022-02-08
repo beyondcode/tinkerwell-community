@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Feature Request
+    url: https://github.com/beyondcode/tinkerwell-community/discussions/new?category=ideas
+    about: Propose a new feature for Tinkerwell
   - name: Check the docs
     url: https://beyondco.de/docs/tinkerwell/getting-started/about
     about: 'This repository is for reporting bugs and proposing new features. If you need help with your first steps of Tinkerwell, check out the docs!'
